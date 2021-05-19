@@ -29,7 +29,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Next.JS](https://shields.io/badge/Next.Js-green?logo=next-dot-js&style=for-the-badge)
+![Next.JS](https://shields.io/badge/Next.Js-blue?logo=next-dot-js)
 ![ ](https://img.shields.io/badge/-PHP-yellowgreen)
 ![ ](https://img.shields.io/badge/-SQL-orange)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)

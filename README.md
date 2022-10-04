@@ -52,4 +52,4 @@
  
 </div>
 
-[portifólio]: https://welingtonfidelis.dev.br
+[portifólio]: https://welingtonfidelis.com.br

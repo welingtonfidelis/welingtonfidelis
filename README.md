@@ -8,21 +8,6 @@
 
 #
 
-<br/>
-
-### Stats
-
- <div>
-  <a href="https://github.com/welingtonfidelis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welingtonfidelis&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welingtonfidelis&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
-#
-
-<br/>
-
 ### Tecnologias
 
 <div>

@@ -3,7 +3,6 @@
 - 🦆 Desenvolvedor Full-Stack;
 - 🌱 Apaixonado por natureza;
 - 🤖 Entusiasta por tecnologia;
-- 🤝 Em busca de projetos open source para participar;
 - 🔭 Meu [portifólio], se quiser dar uma olhada, fique a vontade.
 
 #
